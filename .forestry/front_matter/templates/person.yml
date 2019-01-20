@@ -36,3 +36,5 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- dir_content/subfolder/test-person.md
